@@ -6,7 +6,7 @@ export default function Home() {
       <h2>This is React Practice!!</h2>
       <ul>
         <li>
-          <Link href="/form">Form</Link>
+          <Link href='/form'>form</Link>
         </li>
       </ul>
     </>
